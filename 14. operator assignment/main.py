@@ -1,7 +1,6 @@
 # operasi yang dapat dilakukan dgn penyingkatan
 # operasi ditambah dengan assignment
 
-from numpy import true_divide
 
 
 a = 5 
